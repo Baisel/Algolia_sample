@@ -1,0 +1,2 @@
+# Algolia_sample
+QiitaにあるAlgoliaサンプルのソース
